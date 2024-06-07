@@ -1,7 +1,5 @@
 # Security-Headers-Checker
 
-Title: Security Headers Checker
-
 Description:
 The Security Headers Checker is a Python script designed to automate the process of checking the security headers of a website. Security headers play a crucial role in enhancing the security posture of web applications by providing additional layers of protection against common security vulnerabilities. This script sends a GET request to the specified URL, retrieves the response headers, and checks if the expected security headers are present and configured correctly according to predefined values.
 
